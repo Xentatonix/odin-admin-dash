@@ -3,19 +3,3 @@
     margin: 0;
     border: 0;
 }
-
-body {
-    padding: 50px;
-}
-
-.text-box {
-    width: 250px;
-    height: 150px;
-
-    border-radius: 10px;
-    background-color: beige;
-
-    padding: 15px;
-    border: 2px black solid;
-    border-left: 10px black solid;
-}
